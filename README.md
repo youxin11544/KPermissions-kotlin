@@ -6,17 +6,6 @@ This library allows the usage of Kotlin with the new Android M permission model.
 
 To use this library your `minSdkVersion` must be >= 14.
 
-In your build.gradle :
-
-```gradle
-repositories {
-    jcenter() // If not already there
-}
-
-dependencies {
-    compile 'cn.hchstudio:kpermissions:1.0.9'
-}
-```
 
 ## Usage
 
